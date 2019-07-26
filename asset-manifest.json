@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hkrnews/static/css/main.cdf039e1.chunk.css",
+    "main.js": "/hkrnews/static/js/main.64b91598.chunk.js",
+    "main.js.map": "/hkrnews/static/js/main.64b91598.chunk.js.map",
+    "runtime~main.js": "/hkrnews/static/js/runtime~main.babb2e8d.js",
+    "runtime~main.js.map": "/hkrnews/static/js/runtime~main.babb2e8d.js.map",
+    "static/js/2.4dfffcb7.chunk.js": "/hkrnews/static/js/2.4dfffcb7.chunk.js",
+    "static/js/2.4dfffcb7.chunk.js.map": "/hkrnews/static/js/2.4dfffcb7.chunk.js.map",
+    "index.html": "/hkrnews/index.html",
+    "precache-manifest.dc224e846601c2f2870f3fe0bfdd3d5d.js": "/hkrnews/precache-manifest.dc224e846601c2f2870f3fe0bfdd3d5d.js",
+    "service-worker.js": "/hkrnews/service-worker.js",
+    "static/css/main.cdf039e1.chunk.css.map": "/hkrnews/static/css/main.cdf039e1.chunk.css.map"
+  }
+}
